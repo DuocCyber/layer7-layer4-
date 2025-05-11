@@ -47,7 +47,7 @@ def stats(dur):
 def runner():
     print("=" * 50)
     print("   Công cụ ddos layer4 đơn giản")
-    print("   Nguồn: @zentra999")
+    print("   Nguồn: @DuocDev")
     print("=" * 50)
 
     parser = argparse.ArgumentParser()
