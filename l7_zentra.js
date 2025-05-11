@@ -19,7 +19,7 @@ process.on("unhandledRejection", errorHandler);
  process.on('uncaughtException', function (exception) {
   });
 
- if (process.argv.length < 7){console.log(`@zentra999 Usage: target time rate thread proxyfile`); process.exit();}
+ if (process.argv.length < 7){console.log(`@DuocDev Usage: target time rate thread proxyfile`); process.exit();}
  const headers = {};
   function readLines(filePath) {
      return fs.readFileSync(filePath, "utf-8").toString().split(/\r?\n/);
