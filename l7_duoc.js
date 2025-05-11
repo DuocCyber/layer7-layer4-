@@ -353,9 +353,9 @@ const winch = [
 const tips1 =[
  "use premium proxy will get more request/s",
  "this script only work on http/2!",
- "recommended big proxyfile if target is zentradz",
- "dont trying resell my script!! @zentra999",
- "My channel: https://t.me/attackshadowcrew"
+ "recommended big proxyfile if target is duoc",
+ "dont trying resell my script!! @DuocDev",
+ "My channel: fb: phamthanhduoc"
 ];
 const platformd = [
  "Windows",
