@@ -503,7 +503,7 @@ const RESTART_DELAY = 1000;
 
  if (cluster.isMaster) {
     console.clear()
-    console.log(`HTTP-DDoS bypass by: @zentra999`.rainbow)
+    console.log(`HTTP-DDoS bypass by: @DuocDev`.rainbow)
     console.log(`--------------------------------------------`.gray)
     console.log(`Target: `.brightYellow + process.argv[2])
     console.log(`Time: `.brightYellow + process.argv[3])
